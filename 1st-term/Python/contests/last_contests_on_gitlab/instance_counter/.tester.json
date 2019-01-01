@@ -1,0 +1,6 @@
+{
+    "allow_change": ["instance_counter.py"],
+    "benchmarks": [],
+    "scorer": [],
+    "solutions": ["solutions"]
+}

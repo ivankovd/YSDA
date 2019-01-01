@@ -1,0 +1,7 @@
+{
+    "allow_change": ["crawler.py"],
+    "benchmarks": [],
+    "scorer": [],
+    "solutions": ["."],
+    "tests": ["private-tests"]
+}

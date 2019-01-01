@@ -1,0 +1,6 @@
+{
+    "allow_change": ["property_maker.py"],
+    "benchmarks": [],
+    "scorer": [],
+    "solutions": ["solutions"]
+}

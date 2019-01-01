@@ -1,0 +1,4 @@
+{
+  "test_many_operations.py::test_one_to_many_map": true,
+  "test_many_operations.py::test_simple_map": true
+}

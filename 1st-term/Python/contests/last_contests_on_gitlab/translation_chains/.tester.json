@@ -1,0 +1,7 @@
+{
+    "allow_change": ["translator.py"],
+    "benchmarks": [],
+    "scorer": [],
+    "solutions": ["."],
+    "tests": ["private-tests"]
+}

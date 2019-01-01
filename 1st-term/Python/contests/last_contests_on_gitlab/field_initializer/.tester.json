@@ -1,0 +1,6 @@
+{
+    "allow_change": ["field_initializer.py"],
+    "benchmarks": [],
+    "scorer": [],
+    "solutions": ["solutions"]
+}
