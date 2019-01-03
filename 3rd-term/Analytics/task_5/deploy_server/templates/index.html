@@ -1,0 +1,15 @@
+<!doctype html>
+<title>Kupriyanov: sentiment</title>
+<form action="{{ url_for('index_page') }}" method=post>
+    <dl>
+        <dt>Введите/вставьте пример отзыва на банк: <br>
+        <dd><textarea name=text rows=10 cols=100>{{ text }}</textarea>
+        <dd><input type=submit value="Оценить">
+    </dl>
+</form>
+
+
+<br>Предсказание тональности отзыва. Оценка выдается по шкале от 1 до 5<br>
+
+<span style="color: {{ score_color }}; font-size: 40pt; font-weight: bold">
+    {{ score }}
